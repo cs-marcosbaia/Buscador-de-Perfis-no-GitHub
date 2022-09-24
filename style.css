@@ -5,7 +5,10 @@
 }
 
 body {
-    background-color: #2a2a72;
+    background-image: url('github dev community.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: auto;
     color: #fff;
     font-family: 'Poppins', sans-serif;
     display: flex;
@@ -93,7 +96,7 @@ body {
 .repo {
     text-decoration: none;
     color: #fff;
-    background-color: #2a2a72;
+    background-color: #212a72;
     font-size: 0.7rem;
     padding: 0.25rem 0.5rem;
     margin-right: 0.5rem;
